@@ -1,0 +1,16 @@
+.modal-content {
+  border-radius: 15px 0 0 0;
+}
+.close-button {
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: rgb(185, 184, 184) !important;
+}
+.modal-footer {
+  background-color: rgb(185, 184, 184);
+}
+.sumbit-btn {
+  background-color: rgb(2, 92, 2);
+  color: #ffffff;
+}
